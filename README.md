@@ -1,4 +1,4 @@
-# Password Generator
+# Calendar/ Schedule App
 
 ## Description
 Erin Jordan's Schedule App week 4 Project for Denver University Coding Bootcamp
