@@ -22,7 +22,15 @@ Erin Jordan's Schedule App week 4 Project for Denver University Coding Bootcamp
 * JQuery
 
 ## Instructions
-* 
+* Pick an hour between 9AM to 5PM
+* Where it says: Enter Event Here... is where you will... Enter your Event :)
+* After you type in your event, Click the floppy disk icon to save your event!
 * Enjoy!
 
 ## Screenshot/Video
+![Screenshot (130)](https://user-images.githubusercontent.com/92272866/159822555-7cdc43c9-c338-470a-a5a1-5530b55aa3cd.png)
+
+
+
+https://user-images.githubusercontent.com/92272866/159822481-72ece124-5ed1-4c76-8a2e-d540e44299ec.mp4
+
