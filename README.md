@@ -1,4 +1,4 @@
-# Calendar/ Schedule App
+# Calendar/ Schedule App for Workday 9-5
 
 ## Description
 Erin Jordan's Schedule App week 4 Project for Denver University Coding Bootcamp
